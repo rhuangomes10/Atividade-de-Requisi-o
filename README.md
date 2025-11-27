@@ -9,3 +9,7 @@ Clima em q (cidade)
 Temperatura: (requisição do arquivo json da api atraves da cidade)
 
 Condição: (requisição do arquivo json da api atraves da cidade)
+
+Em caso de Erro:
+
+Erro na requisição: (mensagem de erro)
